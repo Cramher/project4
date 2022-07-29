@@ -14,4 +14,5 @@
 
 [Aula Digital](https://sistemascomputacionales.readthedocs.io/es/latest/_intro/introGit.html#ejercicio-20-documentacion-de-las-evaluaciones)
 
+![Imagen](FotoPrueba.jpg)
 
