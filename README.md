@@ -2,7 +2,7 @@
 
 ## Inicio del proyecto
 
-###Listas
+### Listas
 
 1. **Negrilla**
 2. *Italica*
@@ -14,5 +14,5 @@
 
 [Aula Digital](https://sistemascomputacionales.readthedocs.io/es/latest/_intro/introGit.html#ejercicio-20-documentacion-de-las-evaluaciones)
 
-![Imagen](FotoPrueba.jpg)
+![Imagen](https://github.com/Cramher/project4/blob/master/Imagenes/FotoPrueba.jpg)
 
